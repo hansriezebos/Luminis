@@ -11,4 +11,7 @@ Controleer de juiste titels
     page should contain  Sinterklaas  2s
     page should contain  Dagdeal
     page should contain element  id:searchfor
+    input text  id:searchfor  Exit escape room
+    click element  xpath://button[@data-test="search-button"]
+    wait until page contains  EXIT De Verlaten  5s
     close browser
