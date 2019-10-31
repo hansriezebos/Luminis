@@ -6,7 +6,7 @@ gevraagd om je script ook in Jenkins te laten draaien.
 
 1.	Download en installeer Git op je werkstation
 
-2.	Open Jenkins via http://localhost:8080. Je kunt inloggen met gebruikersnaam CloseSure en wachtwoord PAssw0rd!
+2.	Open Jenkins via http://localhost:8080. Je kunt inloggen met gebruikersnaam CloseSure en wachtwoord Passw0rd!
 
 3.	Stel bij Beheer Jenkins -> Global Tool Configuration het juiste pad naar git.exe in.
 
